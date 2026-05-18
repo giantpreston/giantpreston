@@ -3,6 +3,7 @@
 - c# / n.js
 - fuck python ✌️
 - someone on ze web
+- maaaybe furry. maybe.
 - pro networker grr
 - im trying to learn more stuff i promise
 - trying to not google every line i write
