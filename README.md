@@ -1,5 +1,7 @@
 @giantpreston  
 independent indie/hobby software developer
+
+yoo [I have a website now](https://giantprstn.qzz.io) check it out
 - wannabe dev
 - c# / n.js
 - fuck python ✌️
